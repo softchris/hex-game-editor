@@ -21,3 +21,24 @@
   position: absolute;
   left: 1300px;
 }
+
+#grid {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+#background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+}
+
+#canvas {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 3;
+}
