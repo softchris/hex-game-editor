@@ -21,4 +21,4 @@ This is an editor that allows you to do things such as
    - if there is pre existing terrain it will be removed first, click again to apply terrain
 - **Toggle fog of war**, there's checkbox that toggles *fog of war*
 
-![](hex-editor.gif)
+![](hex-faster.gif)
